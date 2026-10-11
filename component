@@ -1,0 +1,7 @@
+name = tinyfetch
+summary = tiny system info, replaces neofetch
+build = make
+run = ./tinyfetch
+test = ./tinyfetch
+install = make install
+uninstall = make uninstall
